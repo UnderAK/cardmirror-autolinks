@@ -1,0 +1,8 @@
+{
+  "id": "cardmirror-auto-hyperlinks",
+  "name": "Auto Hyperlinks",
+  "version": "1.0.0",
+  "description": "Automatically turns typed, pasted, and existing HTTP(S) URLs into clickable hyperlinks.",
+  "apiVersion": 1,
+  "minAppVersion": "0.1.0-beta.18"
+}
